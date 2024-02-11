@@ -1,0 +1,88 @@
+body{
+    background-image: url(Untitled\ design.png);
+    background-size: auto;
+}
+h1{
+    color:darkgray;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    border: 10px solid white;
+    
+}
+.set{
+   margin: 10% auto;
+}
+footer{
+    color: darkgray;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+text-align: center;
+}
+
+.drum{
+    display: inline-block;
+    text-align: center;
+    margin: 10px;
+    border: 10px solid grey;
+    border-color:dimgray;
+    border-radius: 15px;
+    font-size: larger;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+width: 150px;
+height: 150px;
+font-size: 5rem;
+outline: none;
+line-height: 2;
+font-weight: 900;
+text-shadow: 3px 0 #DBEDF3;
+}
+.w{
+    background-image: url(./images/kick.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.a{
+    background-image: url(./images/71Gqg4puKLL._AC_UF1000\,1000_QL80_.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.s{
+    background-image: url(./images/81qzo9ZMD7L.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+.d{
+    background-image: url(./images/crash-cymbal-vector-174819.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.j{
+    background-image: url(./images/Snare-Drum-Image-\(1\).avif);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.k{
+    background-image: url(./images/musical-drums-set-649.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+.l{
+    background-image: url(./images/images.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+@media (max-width:600px)
+{
+    .drum{
+    width: 100px;
+    height: 100px;
+    font-size: 30px;
+    }
+    
+    }
+
+    }
+}
